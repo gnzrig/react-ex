@@ -1,0 +1,13 @@
+select, option {
+    width: 400px;
+}
+
+option {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.small-text{
+    
+}
